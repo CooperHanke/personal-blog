@@ -1,0 +1,14 @@
+{
+  "name": "personal-blog",
+  "version": "1.0.0",
+  "description": "A project for making my own blog documenting my misadventures in networking and programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cooper Hanke",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
